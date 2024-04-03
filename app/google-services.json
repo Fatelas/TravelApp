@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1059078429238",
+    "project_id": "fir-auth-a7d26",
+    "storage_bucket": "fir-auth-a7d26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059078429238:android:d9cff629e6feb9ae381697",
+        "android_client_info": {
+          "package_name": "com.example.travelwithus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059078429238-en273o78jn7babfmb2q8f9asbq7i6ejl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelwithus",
+            "certificate_hash": "1df219dd719487191ff7d433b555f7485d86024e"
+          }
+        },
+        {
+          "client_id": "1059078429238-pq3klonu2lbp8nkie64lqps3aqepfd7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelwithus",
+            "certificate_hash": "4b763e8ce65d861187841cb43c56670ce93d5afd"
+          }
+        },
+        {
+          "client_id": "1059078429238-huikfp7q58e8dc8dq9dcdoq61kbeq1t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcSlolsG-ADCNfqqRMDY81p4KkzHjS9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059078429238-huikfp7q58e8dc8dq9dcdoq61kbeq1t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
